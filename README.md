@@ -1,4 +1,3 @@
-### Hi there 👋
 <h2 align="center">Hi there 👋</h2>
 <h4>I'm learning Asp.Net Coreand do something.<h4>
   
