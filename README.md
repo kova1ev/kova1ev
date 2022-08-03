@@ -1,5 +1,4 @@
 <h2 align="center">Hi there 👋</h2>
-<h4>I'm learning Asp.Net Core<h4>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kova1ev&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
