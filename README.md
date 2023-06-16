@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kova1ev&layout=donut&show_icons=true&title_color=f97316&text_color=ffffff&bg_color=171717&locale=en" alt="kova1ev's lang" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kova1ev&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="kova1ev's GitHub stats" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kovalev&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="kova1ev's GitHub stats" /></p>
 
 <br/>
 <!--
