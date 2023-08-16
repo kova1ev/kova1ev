@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on [Url Shortener](https://github.com/kova1ev/UrlShortener)
-- 🌱 I’m currently learning .net 
+<!-- - 🌱 I’m currently learning .net  -->
 - 🤔 I’m looking for help with [Url Shortener](https://github.com/kova1ev/UrlShortener)
 
 
