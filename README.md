@@ -46,12 +46,15 @@ Here are some ideas to get you started:
 <p>&nbsp;<img src="https://github-profile-trophy.vercel.app/api?username=kova1ev&theme=onedark&column=-1" alt="kova1ev's throphy" /> </p>
 -->
 
+<details>
+ <summary>Other Stats</summary>
  <!--- ### :game_die: Other --->
   <p> 
     <a href="https://leetcode.com/kova1ev/"> <img  src="https://leetcode-stats-six.vercel.app/api?username=kova1ev&theme=dark" alt="kova1ev's leetcodes" /> </a>  
     <a  href="https://www.codewars.com/users/kova1ev"> <img align="top" src="https://www.codewars.com/users/kova1ev/badges/large" alt="kova1ev's leetcodes" /> </a>
   </p>
-  
+
+</details>
 
 
 ---
