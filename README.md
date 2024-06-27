@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-## :tophat: My stack set
+<!-- ## :tophat: My stack set
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <a  href="https://www.codewars.com/users/kova1ev"> <img align="top" src="https://www.codewars.com/users/kova1ev/badges/large" alt="kova1ev's leetcodes" /> </a>
   </p>
 
-</details>
+</details>  -->
 
 
 ---
@@ -65,9 +65,7 @@ Here are some ideas to get you started:
   
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/203808471492198401/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-kovalev-273352221/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kvlandrey)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kova1ev) 
-  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kvlandrey)  
 </div>  
   
 <br/>  
